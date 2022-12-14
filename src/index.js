@@ -5,7 +5,7 @@ import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import { UserProvider } from './contexts/user.context';
 import { ProductsProvider } from './contexts/products.context';
-import { CartProvider } from './contexts/cart.context';
+import { CartProvider } from './contexts/Cart.context';
 
 const rootElement = document.getElementById('root');
 
